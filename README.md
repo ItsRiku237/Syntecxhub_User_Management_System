@@ -19,7 +19,9 @@
 
 ---
 
-## [🌐 Live Demo](https://syntecxhub-user-management-system-3hdq.onrender.com)
+## 🚀 Live Demo
+
+🌐 https://syntecxhub-user-management-system-3hdq.onrender.com
 
 ---
 
