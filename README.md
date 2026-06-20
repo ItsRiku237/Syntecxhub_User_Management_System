@@ -4,6 +4,7 @@
 
 **A RESTful API for User Management — built with Node.js, Express, MongoDB & Mongoose**
 
+
 [![Node.js](https://img.shields.io/badge/Node.js-18.x-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
@@ -13,39 +14,43 @@
 
 <br/>
 
-[📂 Repository](https://github.com/ItsRiku237/Syntecxhub_User_Management_System) &nbsp;·&nbsp; [🐛 Report Bug](https://github.com/ItsRiku237/Syntecxhub_User_Management_System/issues) &nbsp;·&nbsp; [✨ Request Feature](https://github.com/ItsRiku237/Syntecxhub_User_Management_System/issues)
+[🌐 Live Demo](https://syntecxhub-user-management-system-3hdq.onrender.com) &nbsp;·&nbsp;[📂 Repository](https://github.com/ItsRiku237/Syntecxhub_User_Management_System) &nbsp;·&nbsp; [🐛 Report Bug](https://github.com/ItsRiku237/Syntecxhub_User_Management_System/issues) &nbsp;·&nbsp; [✨ Request Feature](https://github.com/ItsRiku237/Syntecxhub_User_Management_System/issues)
 
 </div>
 
----
-
-## 🚀 Live Demo
-
-🌐 https://syntecxhub-user-management-system-3hdq.onrender.com
 
 ---
+
+
+
 
 ## 🖼 API Screenshots (Postman)
 
 ### ✅ POST — Create User
 ![Create User](screenshots/POST_create_user.png)
 
+
 ### ✅ GET — Read User
 ![Read User](screenshots/GET_read_user.png)
+
 
 ### ✅ PUT — Update User
 ![Update User](screenshots/PUT_update_user.png)
 
+
 ### ✅ DELETE — Delete User
 ![Delete User](screenshots/DELETE_user.png)
 
+
 ### 🖥️ VS Code — Project Setup
 ![VS Code Setup](screenshots/Mongodb_conection.png)
+
 
 ### 🖥️ Mongodb connection — POST Record
 ![Mongodb connection](screenshots/Mongodb_POST_record.png)
 
 ---
+
 
 ## 📖 Table of Contents
 
@@ -63,6 +68,7 @@
 
 ---
 
+
 ## 🎯 About the Project
 
 **Syntecxhub User Management System** is a RESTful API built to manage user data with full **CRUD (Create, Read, Update, Delete)** functionality. Developed as part of the **Syntecxhub Web Development Internship**, this project demonstrates backend fundamentals — REST API design, MongoDB schema modeling with Mongoose, and securing endpoints using HTTP Basic Authentication.
@@ -72,6 +78,7 @@ All endpoints were tested and verified using **Postman**, with results documente
 > 🔒 Every protected route requires a valid **username & password** sent via the `Authorization` header (Basic Auth).
 
 ---
+
 
 ## ✨ Features
 
@@ -88,6 +95,7 @@ All endpoints were tested and verified using **Postman**, with results documente
 
 ---
 
+
 ## 🛠 Tech Stack
 
 | Category         | Technology        |
@@ -101,6 +109,7 @@ All endpoints were tested and verified using **Postman**, with results documente
 | Version Control   | Git & GitHub      |
 
 ---
+
 
 ## 📁 Project Structure
 ```
@@ -140,6 +149,7 @@ Syntecxhub_User_Management_System/
 ```
 ---
 
+
 ## 🔗 API Endpoints
 
 | Method   | Endpoint           | Description           | Auth Required |
@@ -162,6 +172,7 @@ Syntecxhub_User_Management_System/
 
 ---
 
+
 ## 🔐 Authentication
 
 This API uses **HTTP Basic Authentication**. Every request to a protected route must include an `Authorization` header.
@@ -174,6 +185,7 @@ This API uses **HTTP Basic Authentication**. Every request to a protected route 
 
 **Header format (auto-generated):**
 ---
+
 
 ## 🚀 Getting Started
 
@@ -218,6 +230,7 @@ Server runs at → `http://localhost:5000`
 
 ---
 
+
 ## 🧪 Testing with Postman
 
 1. Open **Postman**
@@ -231,6 +244,7 @@ Server runs at → `http://localhost:5000`
 
 ---
 
+
 ## 📈 Future Improvements
 
 - [ ] 🔑 Switch to JWT-based authentication
@@ -242,6 +256,7 @@ Server runs at → `http://localhost:5000`
 - [ ] 🛡️ Input validation with Joi or express-validator
 
 ---
+
 
 ## 👨‍💻 Developer
 
@@ -257,6 +272,7 @@ Web Development Intern @ Syntecxhub
 </div>
 
 ---
+
 
 ## 🙏 Acknowledgements
 
